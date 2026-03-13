@@ -24,9 +24,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Manual QA for feature acceptance when needed
 
 ## Reporting & Metrics
+- Publish weekly [Project Status Updates](octoacme-weekly-status-template.md) — PM owns, shared with stakeholders
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
-- Use dashboards for key signals (errors, latency, usage)
+- Use dashboards for key signals (errors, latency, usage) — Data Analyst supports
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
@@ -37,4 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] [Risk Register](octoacme-risk-register-template.md) updated weekly (PM owns)
+- [ ] [Weekly Status Updates](octoacme-weekly-status-template.md) being published (PM owns)
+- [ ] [Decision Log](octoacme-decision-log-template.md) maintained for significant decisions
