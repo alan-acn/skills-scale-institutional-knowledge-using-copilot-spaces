@@ -15,17 +15,30 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success. Also referred to as Product Lead.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- Stakeholders / Sponsor: provide inputs and approvals; Sponsor is the senior authority for escalations.
+- Scrum Master / Delivery Manager: facilitates agile ceremonies and removes impediments.
+- UX Designer: drives user-centered design and usability.
+- DevOps/SRE: maintains CI/CD pipelines, infrastructure, and deployment reliability.
+- Engineering Manager / Tech Lead: provides technical leadership and owns architectural decisions.
+- Security: embeds security practices and ensures compliance throughout the project.
+- Support / Customer Success: advocates for customers and manages post-release adoption.
+- Data Analyst: enables data-informed decisions and measures project outcomes.
+- QA Automation Specialist: builds and maintains automated test suites and quality gates.
+
+> See [Roles & Personas](octoacme-roles-and-personas.md) for full descriptions, responsibilities, and interaction patterns.
 
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
+- [Definition of Done & Quality Gates](octoacme-definition-of-done.md)
+- [Risk Register](octoacme-risk-register-template.md)
+- [Decision Log](octoacme-decision-log-template.md)
+- [Weekly Status Update](octoacme-weekly-status-template.md)
+- [Release Readiness Checklist](octoacme-release-readiness-checklist.md)
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)

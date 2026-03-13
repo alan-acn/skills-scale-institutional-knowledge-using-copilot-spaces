@@ -14,8 +14,11 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- [Release Readiness Checklist](octoacme-release-readiness-checklist.md) completed and signed off
+- Open risks reviewed in [Risk Register](octoacme-risk-register-template.md)
 
 ## Deployment Checklist
+- [ ] [Release Readiness Checklist](octoacme-release-readiness-checklist.md) completed (all sign-offs obtained)
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
